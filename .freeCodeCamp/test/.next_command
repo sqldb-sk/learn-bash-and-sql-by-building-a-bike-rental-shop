@@ -99,3 +99,4 @@ touch bike-shop.sh
 dir
 cat
 echo -e '\n~~~~~ Bike Rental Shop ~~~~~\n' >> bike-shop.sh
+chmod +x bike-shop.sh
