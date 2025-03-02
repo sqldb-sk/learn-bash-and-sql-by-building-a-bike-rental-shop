@@ -98,3 +98,4 @@ touch project/bike-shop.sh
 touch bike-shop.sh
 dir
 cat
+echo -e '\n~~~~~ Bike Rental Shop ~~~~~\n' >> bike-shop.sh
