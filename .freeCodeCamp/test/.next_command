@@ -199,3 +199,4 @@ psql --username=freecodecamp --dbname=bikes
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+__vsc_prompt_cmd_original
