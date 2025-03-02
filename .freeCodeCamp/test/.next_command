@@ -146,3 +146,4 @@ echo ' M e '
 echo "$(echo ' M e ')."
 echo "$(echo ' M e ')."
 echo "$(echo ' M e ' | sed 's/ //')."
+echo "$(echo ' M e ' | sed 's/ //g')."
